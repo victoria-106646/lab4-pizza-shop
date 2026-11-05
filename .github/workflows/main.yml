@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - feature/pizza-store
+      - feature/order-summary
   pull_request:
     branches:
       - main
